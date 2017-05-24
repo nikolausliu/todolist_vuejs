@@ -21,7 +21,7 @@ npm run build --report
 ## 展示
 
 没有demo链接，贴个截屏的图吧
-![todolist]('http://oluuc63f6.bkt.clouddn.com/todolist.gif')
+![todolist](todolist.gif)
 
 ## 说明
 
